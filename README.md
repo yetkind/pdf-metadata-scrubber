@@ -41,6 +41,4 @@ python script.py
 
 Note: It's always a good idea to keep a backup of your original PDF file before running this script.
 
-## Conclusion
 
-By following the steps outlined above, you can easily edit the metadata of a PDF file and linearize it using the provided script. Feel free to customize the script further according to your specific requirements.
